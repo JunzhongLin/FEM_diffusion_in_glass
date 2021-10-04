@@ -1,0 +1,21 @@
+{
+"data_name": "input.xlsx", 
+"file_path": "./data/diff_reg/input/", 
+"output_name": "xup_800um.pkl", 
+"x_ini": [0.0001, 0.25, 0.25, 0.0001, 0.25, 0.25, 2.0, 7.0, 6.0, 3.0], 
+"x_bound_low": [1e-07, 0.001, 0.001, 1e-06, 0.0001, 0.0001, 2, 7, 5, 5], 
+"x_bound_high": [0.1, 20.0, 20.0, 0.1, 10.0, 10.0, 10.0, 17.0, 15.0, 10.0], 
+"param": [400, [14400, 10800], 1, 16, [0.29, 9.22], 19.37, "X-up_800um"], 
+"same_temp": 0, 
+"cost_fun_wrapper": 1, 
+"method": "differential_evolution", 
+"ranges": [[1e-06, 0.001], [0.01, 1], [0.01, 1], [1e-06, 0.001], [0.01, 1], [0.01, 1], [0, 15], [0, 15], [0, 15], [0, 15]], 
+"con_fun_diff": "con_diff_coeff", 
+"con_fun_surf_st": "con_surf_c_st", 
+"con_fun_surf_1st": "con_surf_c_1st", 
+"con_fun_surf_dt": "con_surf_c_dt", 
+"y_total": 19.37,
+"E_modulus": 82000,
+"poisson_ratio": 0.22,
+"num_workers": 3
+}

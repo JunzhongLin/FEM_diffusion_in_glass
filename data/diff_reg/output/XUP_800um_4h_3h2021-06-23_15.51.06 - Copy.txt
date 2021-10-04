@@ -1,0 +1,104 @@
+
+Round0:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.22898217311941346
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 4192
+              nit: 49
+          success: True
+                x: array([3.36699519e-04, 9.44901067e+00, 1.84809212e-01, 3.34450075e-04,
+       4.43533106e+00, 1.64672462e-01, 2.13742227e+00, 1.27276594e+01,
+       6.22885537e+00, 8.61624402e+00])
+
+Round1:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.24469478870642647
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 5877
+              nit: 61
+          success: True
+                x: array([2.91072670e-04, 1.10191286e-01, 1.03054916e+01, 2.84964821e-04,
+       1.04355449e-01, 3.49575378e+00, 2.07072424e+00, 1.23971401e+01,
+       7.52191170e+00, 7.70328731e+00])
+
+Round2:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.2290180490538278
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 4760
+              nit: 54
+          success: True
+                x: array([3.56842573e-04, 1.12069509e+01, 1.85063374e-01, 3.52905050e-04,
+       8.36771347e+00, 1.81411156e-01, 2.15175009e+00, 1.26914901e+01,
+       6.23546447e+00, 8.66680228e+00])
+
+Round3:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.22921371536219942
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 5473
+              nit: 63
+          success: True
+                x: array([3.09159982e-04, 8.54477514e+00, 1.88580686e-01, 2.89110066e-04,
+       5.00626414e+00, 1.64378463e-01, 2.07004894e+00, 1.26849676e+01,
+       7.12646924e+00, 8.04923944e+00])
+
+Round4:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.2293454783101164
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 4217
+              nit: 47
+          success: True
+                x: array([3.84398148e-04, 1.15746913e+01, 1.83769266e-01, 3.01920076e-04,
+       7.70989839e+00, 1.60424753e-01, 2.19183089e+00, 1.26680720e+01,
+       6.49277679e+00, 8.42711841e+00])
+
+Round5:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.22932337367899588
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 5458
+              nit: 55
+          success: True
+                x: array([3.59434227e-04, 1.05404491e+01, 1.84948432e-01, 3.20887857e-04,
+       6.05500813e+00, 1.54994784e-01, 2.08880316e+00, 1.27889567e+01,
+       6.64142593e+00, 8.31784341e+00])
+
+Round6:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.22933981978173856
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 4385
+              nit: 53
+          success: True
+                x: array([3.60012513e-04, 8.45877765e+00, 1.87021548e-01, 3.51581296e-04,
+       4.11690814e+00, 1.48264571e-01, 2.11626960e+00, 1.27322564e+01,
+       5.75333420e+00, 8.96425922e+00])
+
+Round7:
+           constr: [array([0., 0., 0.]), array([0.]), array([0.]), array([0., 0., 0., 0.])]
+ constr_violation: 0.0
+              fun: 0.22892080733644746
+            maxcv: 0.0
+          message: 'Optimization terminated successfully.'
+             nfev: 4688
+              nit: 59
+          success: True
+                x: array([4.35254947e-04, 1.73701720e+01, 1.90281713e-01, 4.34755869e-04,
+       4.02314418e+00, 1.56286228e-01, 2.03750246e+00, 1.27517123e+01,
+       5.45672679e+00, 9.14546644e+00])

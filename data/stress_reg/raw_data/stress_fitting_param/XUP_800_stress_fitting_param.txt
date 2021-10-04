@@ -1,0 +1,14 @@
+{
+"D_1st": [3.73E-04, 1.22E+01, 1.87E-01],
+"D_2nd": [3.55E-04, 6.23E+00, 1.64E-01],
+"c_surf_1st": [2.13E+00, 1.27E+01],
+"c_surf_2nd": [6.10E+00, 8.72E+00],
+"time_1st": 14400,
+"time_2nd": 10800,
+"c_glass": [0.29, 9.22],
+"thickness": 800.0,
+"step_size": 1,
+"y_total_alkali": 19.37,
+"E_modulus": 82000,
+"poisson_ratio": 0.22,
+}
