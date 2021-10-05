@@ -1,6 +1,7 @@
 import argparse
 import json
-from stress_profile_gen import *
+import pandas as pd
+from stress_profile_gen import c_profile_gen_2_steps, numeric_stress_profile_gen
 from logconf import logging
 
 log = logging.getLogger(__name__)

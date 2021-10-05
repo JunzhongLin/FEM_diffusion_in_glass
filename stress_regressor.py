@@ -1,16 +1,14 @@
 import argparse
+import os
+import pandas as pd
 
 import matplotlib.pyplot as plt
 
-from c_profile_fitting import *
-from numerical_method import *
 import datetime
 import json
-from scipy.optimize import least_squares
-from timeit import default_timer as timer
-from stress_profile_gen import *
+from stress_profile_gen import dilation_coeff_reg
 from logconf import logging
-from timeit import default_timer as timer
+
 
 log = logging.getLogger(__name__)
 log.setLevel(logging.DEBUG)
